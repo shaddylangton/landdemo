@@ -22,5 +22,7 @@ Product features
 •	Reduce fraud 
 •	Easier audits and levies collection
 
+i will start my implementation with a simple bank to get an understanding of how to implement the above project
+
 
 
